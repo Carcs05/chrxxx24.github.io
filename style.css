@@ -1,0 +1,68 @@
+.expected-output {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+/* Header text */
+.header-text {
+    margin-bottom: 15px;
+    color: #666;
+    letter-spacing: 1px;
+}
+
+/* Navigation list */
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+ul li {
+    margin-bottom: 5px;
+    color: #8B008B;
+    text-decoration: underline; /* Add underline */
+    letter-spacing: 1px;
+}
+
+/* Star image */
+.star-image {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 20px 0;
+}
+
+/* Image text */
+.image-text {
+    color: #666;
+    margin-bottom: 20px;
+    margin-left: 1in;
+    letter-spacing: 1px;
+}
+
+/* Page content text */
+.page-content-text {
+    color: #666;
+    margin-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+/* Main heading */
+h1 {
+    font-size: 32px;
+    margin: 20px 0;
+    letter-spacing: 1px;
+}
+
+/* Content sections */
+.page-content div {
+    margin: 10px 0;
+    color: #666;
+    letter-spacing: 1px;
+}
+
+
