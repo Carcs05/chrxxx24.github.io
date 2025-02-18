@@ -7,14 +7,14 @@
     color: #333;
 }
 
-/* Header text */
+
 .header-text {
     margin-bottom: 15px;
     color: #666;
     letter-spacing: 1px;
 }
 
-/* Navigation list */
+
 ul {
     list-style-type: disc;
     padding-left: 20px;
@@ -28,7 +28,7 @@ ul li {
     letter-spacing: 1px;
 }
 
-/* Star image */
+
 .star-image {
     width: 100px;
     height: 100px;
@@ -36,7 +36,6 @@ ul li {
     margin: 20px 0;
 }
 
-/* Image text */
 .image-text {
     color: #666;
     margin-bottom: 20px;
@@ -44,21 +43,21 @@ ul li {
     letter-spacing: 1px;
 }
 
-/* Page content text */
+
 .page-content-text {
     color: #666;
     margin-bottom: 20px;
     letter-spacing: 1px;
 }
 
-/* Main heading */
+
 h1 {
     font-size: 32px;
     margin: 20px 0;
     letter-spacing: 1px;
 }
 
-/* Content sections */
+
 .page-content div {
     margin: 10px 0;
     color: #666;
